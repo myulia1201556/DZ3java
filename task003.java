@@ -28,10 +28,10 @@ public class task003 {
 
     public static void main(String[] args) {
 
-        int a = 3;
-        int b = 27;
-        int c = 3;
-        int d = 2;
+        int a = 11;
+        int b = 7;
+        int c = 2;
+        int d = 1;
         runFunc(a, b, c, d, a + " ");
 
         if (allRoutes.isEmpty())
