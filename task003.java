@@ -50,10 +50,6 @@ public class task003 {
             }
 
             route.append("\n");
-
-            route.append("Самое быстрое решение:\n\n");
-            route.append(minWay(allRoutes));
-            System.out.println(route + " = " + b);
         }
     }
 }
